@@ -1,2 +1,0 @@
-my_hopper_training:my_legged_robots_description:my_legged_robots_sims
--DCMAKE_BUILD_TYPE=Release -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/root/monoped_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/root/monoped_ws/install_isolated
