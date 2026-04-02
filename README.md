@@ -1,3 +1,7 @@
 # Hoppip-v0
 
-no readme for you now
+![Jump Image](assets/jump.png)
+
+## Architecture
+![Block Image](assets/block.png)
+
