@@ -1,0 +1,8 @@
+prefix=/root/monoped_ws/install_isolated
+
+Name: my_legged_robots_sims
+Description: Description of my_legged_robots_sims
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

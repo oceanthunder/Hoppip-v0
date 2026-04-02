@@ -1,0 +1,29 @@
+# Algorithm Parameters
+nepisodes: 100000
+nsteps: 1000
+
+# Environment Parameters
+desired_pose:
+  x: 0.0
+  y: 0.0
+  z: 1.0
+
+desired_force: 7.08
+desired_yaw: 0.0
+
+max_height: 3.0
+min_height: 0.5
+max_incl: 1.57
+
+running_step: 0.001
+joint_increment_value: 0.05
+
+done_reward: -1000.0
+alive_reward: 100.0
+
+weight_r1: 1.0
+weight_r2: 0.0
+weight_r3: 1.0
+weight_r4: 1.0
+weight_r5: 1.0
+
