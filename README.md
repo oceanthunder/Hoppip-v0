@@ -81,7 +81,9 @@ roslaunch my_legged_robots_sims main.launch
 docker exec -it monoped_rl /bin/bash
 ```
 
-11. Now, in a new terminal
+11. Replace the my_hopper_training folder (in /root/monoped_ws/src) witht the folder of this repo
+
+12. Now, in a new terminal
 ```bash
 source /opt/ros/noetic/setup.sh
 cd /root/monoped_ws
