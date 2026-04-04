@@ -1,6 +1,10 @@
 # Hoppip-v0
 Distributed Distributional DDPG (D4PG) training for a one-legged hopper robot (Monoped-V0) in Gazebo/ROS, using Acme and Reverb, so that it jumps!
 
+
+https://github.com/user-attachments/assets/b699f626-6673-437c-92aa-38b9d0b3d77a
+
+
 ## Architecture
 ![Block Image](assets/block.png)
 
